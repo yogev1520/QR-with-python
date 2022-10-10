@@ -1,6 +1,8 @@
 # QR-with-python
 QR with python sorce artical = https://dev.to/codedex/generate-a-qr-code-with-python-386m
 
+sorce git = https://github.com/lincolnloop/python-qrcode
+
 lib requiers  = pip install qrcode pillow
 
 import qrcode
