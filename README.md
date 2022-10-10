@@ -23,3 +23,5 @@ As an exercise, try taking in these parameters as input, and explaining to the u
 
 Visit documentation for more information about the parameters in qrcode.QRCode(...)https://github.com/lincolnloop/python-qrcode 
 
+
+sorce project = https://dev.to/codedex/generate-a-qr-code-with-python-386m
